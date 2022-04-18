@@ -1,0 +1,14 @@
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Release\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Release\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Release\ComicCollector.MainForm.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Release\ComicBookCollection.Properties.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Release\ComicBookCollection.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Release\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Release\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\bin\Release\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\bin\Release\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Release\ComicCollector.MainForm.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Release\ComicBookCollection.Properties.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Release\ComicBookCollection.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Release\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Release\ComicBookCollection.pdb

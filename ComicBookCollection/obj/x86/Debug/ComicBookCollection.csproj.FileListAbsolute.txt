@@ -1,0 +1,25 @@
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.Properties.Resources.resources
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csproj.GenerateResource.Cache
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Debug\ComicBookCollection.exe
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Debug\ComicBookCollection.pdb
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.exe
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\bin\Debug\ComicBookCollection.exe
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\bin\Debug\ComicBookCollection.pdb
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicCollector.MainForm.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicBookCollection.Properties.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2010\Projects\ComicBookCollection - Use one button for Add or Update Issues\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csproj.GenerateResource.Cache
+C:\Users\Gary\documents\visual studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicCollector.MainForm.resources
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Debug\ComicBookCollection.exe
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\bin\Debug\ComicBookCollection.pdb
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicCollector.MainForm.resources
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.Properties.Resources.resources
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csproj.GenerateResource.cache
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csproj.CoreCompileInputs.cache
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.exe
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.pdb
+D:\ggjar\Documents\Visual Studio 2010\Projects\ComicBookCollection\ComicBookCollection\obj\x86\Debug\ComicBookCollection.csprojAssemblyReference.cache
